@@ -211,39 +211,39 @@
 	</body>
 </html>	
 ```
-<h3>HTML</h3>
+<h3>CSS</h3>
 ```
-  div p{}
+ div p{}
 
-  div h2{}
+div h2{}
 
-  #test p{}
+#test p{}
 
-  #test h2{}
+#test h2{}
 
-  .bbb{}
+.bbb{}
 
-  #test.bbb{}
+#test.bbb{}
 
-  p.bbb{}
+p.bbb{}
 
-  h2.bbb{}
+h2.bbb{}
 
-  #test p.bbb{}
+#test p.bbb{}
 
-  .bbb,.xxx{}
+.bbb,.xxx{}
 
-  p.bbb,h2.xxx{}
+p.bbb,h2.xxx{}
 
-  #test p.bbb,#test p.xxx{}
+#test p.bbb,#test p.xxx{}
 
-  .fff{}
+.fff{}
 
-  p.fff{}
+p.fff{}
 
-  .fff.bbb{}
+.fff.bbb{}
 
-  .fff h2.bbb{}
+.fff h2.bbb{}
 ```
 
 <h3>Задачи CodeWars</3>
