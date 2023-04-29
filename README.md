@@ -15,6 +15,7 @@
 <h2>Решение задач</h2>
 
 <h3>HTML</h3>
+
 ```
 <!DOCTYPE html>
 <html>
