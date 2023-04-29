@@ -246,6 +246,33 @@ p.fff{}
 .fff.bbb{}
 
 .fff h2.bbb{}
+
+#test a:link, #test a:visited {
+	text-decoration: none;
+	color: red;
+}
+
+#test a:hover {
+	text-decoration: underline;
+	color: blue;
+}
+
+a.www:link, a.www:visited{
+	text-decoration: underline;
+	color: blue;
+}
+
+a.www:hover{
+	text-decoration: none;
+}
+
+#test a.www:link,#test a.www:visited{
+	color: gray;
+}
+
+.eee a.www:link, .eee a.www:visited{
+	color: white;
+}
 ```
 
 <h3>Задачи CodeWars</3>
